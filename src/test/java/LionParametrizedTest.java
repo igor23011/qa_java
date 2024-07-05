@@ -6,7 +6,6 @@ import org.junit.runners.Parameterized;
 import org.mockito.Mock;
 
 import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertThrows;
 
 @RunWith(Parameterized.class)
 public class LionParametrizedTest {
